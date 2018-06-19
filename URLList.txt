@@ -1,0 +1,6 @@
+http://pep20.org
+http://dephekt.net/
+http://www.python.org/
+http://www.mozilla.org/
+http://git-scm.com/
+http://realpython.com/blog/nopenotapage
