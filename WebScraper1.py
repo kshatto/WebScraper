@@ -27,8 +27,7 @@ def simple_get(url):
         with contextlib.closing(requests.get(url, stream=True)) as resp:
             if is_good_response(resp):
                 return resp.content
-            else:
-                return None
+            return None
 
     except requests.RequestException as e:
         log_error('Error during request to {} : {}'.format(url, str(e)))
