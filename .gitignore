@@ -107,3 +107,6 @@ venv.bak/
 
 # Pycharm project settings
 .idea
+
+/URLList.txt
+WebScraper1.log
