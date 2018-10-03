@@ -105,6 +105,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Pycharm project settings
+.idea
+
 /URLList.txt
-.idea/
 WebScraper1.log
